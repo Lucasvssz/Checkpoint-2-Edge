@@ -4,7 +4,7 @@
 a temperatura e umidade do ambiente onde os vinhos serão conservados</p>
 
 <p>Abaixo está o passo a passo de como realizamos o projeto</p>
-<a href="https://youtu.be/MCSw4fT85kU?si=KpTZby5886DSWUUW" target="_blank"<p>Este link direciona para um conteúdo explicativo sobre o projeto</p>
+<a href="https://youtu.be/MCSw4fT85kU?si=KpTZby5886DSWUUW" target="_blank"><p>Este link direciona para um conteúdo explicativo sobre o projeto</p>
 
 
 > <h2>Como nosso sistema funciona</h2>
@@ -14,7 +14,8 @@ a temperatura e umidade do ambiente onde os vinhos serão conservados</p>
 <p><li><strong>Temperatutra:</strong>O sitema irá monitorar as flutuações térmicas do ambiente e notificar caso esteja fora dos padrões desejados.</li></p>
 <li><strong>Umidade:</strong>Aqui o sistema irá monitorar a umidade ambiente e notificar caso a umidade esteja abaixo de 60% ou acima de 80%</li>
 
-> <h2>Componentes utilizados</h2>
+> <h2>Componentes utilizados e plataforma </h2>
+<li>Plataforma utilizada Tinkercad</li>
 <li>Arduíno UNO</li>
 <li>Protoboard</li>
 <li>DHT11</li>
@@ -25,9 +26,9 @@ a temperatura e umidade do ambiente onde os vinhos serão conservados</p>
 <li>LED Amarelo</li>
 <li>LED Vermelho</li>
 
-> <h2>Abaixo está um guia de montagem para você se basear caso queira!</h2>
-#print
+> <h2>Abaixo está um "guia" de montagem para você se basear caso queira!</h2>
+<img src="./images/imagem.png">
 
 > <h2>Agora basta implementar o código que disponibilizaremos abaixo e tudo pronto!!</h2>
-#print
 
+<a href="https://www.tinkercad.com/things/aK5Ktq5cWln-batata/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=aclvljmgpyjVMA_5dZ0NMi7iD2c5E0PAQsR90NyAD3s" target="_blank"><p>Aqui está o link para o código e uma melhor visualização do projeto</p>
